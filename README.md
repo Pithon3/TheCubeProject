@@ -6,7 +6,7 @@ Version 2.0.1
 FEATURES:
 ---------
 - 3-D rendering
-- front/back, up/down, side/side movement of the camera
+- front/back, up/down, side/side movement of the camera (WASD, Space & Shift Movement)
 - Rendering boundaries
 - points in space
 
